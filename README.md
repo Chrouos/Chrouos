@@ -1,21 +1,45 @@
+<br clear="both">
+<h1 align="center">Chrouos</h1>
+
+
 <div align="right">
 <img src="https://truth.bahamut.com.tw/s01/202302/dbd9c4b14a40e32478491dca5681330f.JPG" align="right" height="200" width="200" />
 </div>  
  
-
-### Chrouos  
+### introduction  
 + 🏫 A student, graduated from PCCU and currently attending NCU.     
-+  🖥️ Currently working on Frontend & Backend.  
++ 🖥️ Currently working on Frontend & Backend.  
 + 😀 Interested in data exploration and other projects.  
   
-
 <br/>  
+
+<br clear="both">
+
+<h2 align="left">My Github</h2>
+
+###
+
+<br clear="both">
+
+
+<div align="center">
+  <h3 align="center"> Stats </h3>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&username=Chrouos" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false&username=Chrouos" height="150" alt="languages graph"  />
+ 
+ <h3 align="center"> Activity Graph </h3>
+ <img alt="Chrouos Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Chrouos&theme=react&hide_border=true&hide_title=true" />
+ <img align="center" src="https://github.com/Chrouos/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+
+</div>
+
+
+
+###
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Main  
 <div align="center">  
@@ -85,10 +109,3 @@
 
 <br/>  
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Chrouos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrouos&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<br/>  

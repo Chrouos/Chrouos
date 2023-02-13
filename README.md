@@ -23,9 +23,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&username=Chrouos" alt="stats graph" width="48%" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&username=Chrouos" alt="stats graph" width="45%" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false&username=Chrouos" 
-   width="48%" alt="languages graph" align="right"  />
+   width="45%" alt="languages graph" align="right"  />
  
  <img alt="Chrouos Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Chrouos&theme=react&hide_border=true&hide_title=true" />
  <img align="center" src="https://github.com/Chrouos/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>

@@ -94,13 +94,13 @@
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/Chrouos" target="_blank">
+<a href="https://github.com/Chrouos" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/diudiu_ouob/" target="_blank">
+<a href="https://www.instagram.com/diudiu_ouob/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@huai4592/featured" target="_blank">
+<a href="https://www.youtube.com/@huai4592/videos" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   

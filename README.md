@@ -27,7 +27,7 @@
    width="45%" alt="languages graph" align="right"  />
  
  <img alt="Chrouos Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Chrouos&theme=react&hide_border=true&hide_title=true" />
- <img align="center" src="https://github.com/Chrouos/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+
 
 </div>
 

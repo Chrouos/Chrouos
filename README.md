@@ -7,7 +7,7 @@
  
 ### introduction  
 + 🏫 A student, graduated from PCCU and currently attending NCU.     
-+ 🖥️ Currently working on Frontend & Backend.  
++ 🖥️ Working experience on Frontend & Backend.  
 + 😀 Interested in data exploration and other projects.  
   
 <br/>  

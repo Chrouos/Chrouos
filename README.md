@@ -5,11 +5,13 @@
  <img src="https://truth.bahamut.com.tw/s01/202302/dbd9c4b14a40e32478491dca5681330f.JPG" align="right" height="200" width="200" />
 </div>  
  
-### introduction  
-+ 🏫 A student studying at National Central University is pursuing a master's degree.  
-+ 🖥️ Working experience on Frontend & Backend.  
-+ 😀 Interested in data exploration and other projects.
-+ This is my Website [ChrouoNote](https://chrouosobsidianweb.vercel.app/)
+### Introduction  
++ 🎓 Graduated with a Master’s degree from National Central University.  
++ 🤖 Currently working as an **AI Engineer**, focusing on applied machine learning and NLP.  
++ 🖥️ Experienced in **Frontend & Backend development**, with hands-on system implementation.  
++ 📊 Interested in **data exploration**, AI systems, and practical engineering projects.  
++ 🌐 Personal Website: [ChrouoNote](https://chrouosobsidianweb.vercel.app/)
+
   
 <br/>  
 

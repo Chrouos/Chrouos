@@ -10,7 +10,7 @@
 + 🤖 Currently working as an **AI Engineer**, focusing on applied machine learning and NLP.  
 + 🖥️ Experienced in **Frontend & Backend development**, with hands-on system implementation.  
 + 📊 Interested in **data exploration**, AI systems, and practical engineering projects.  
-+ 🌐 Personal Website: [ChrouoNote](https://chrouosobsidianweb.vercel.app/)
++ 🌐 Personal Website: [ChrouoNote](https://chrouos-notes.vercel.app/)
 
   
 <br/>  
